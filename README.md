@@ -1,16 +1,51 @@
-### Hi there 👋
 
-<!--
-**eloMichas/eloMichas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Cześć!</h1>
+<h3>Mam na imię Michał!</h3>
+  <p>Jestem absolwentem technikum o kierunku mechatronik.
+  Aktualnie jestem w trakcie certyfikatu zawodowego <b>"Google Cybersecurity"</b>.
+  Moje zainteresowanie szeroko pojętą informatyką zaczeło się już od dziecka!
+  Granie w gry przerodziły się w pasję do tego jak to wszystko działa i 
+    do myslenia jak to jeszcze można usprawnić..
+    Codzienna nauka nowych rzeczy z zakresu programowania (PYTHON)
+    i cyberbezpieczeństwa to aktualnie mój konik :)
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Projekty</h2>
+<h3><a href="https://github.com/eloMichas/python/blob/main/krotka%20gra%20tekstowa.py">Krótka gra tekstowa<a></h2>
+<p>
+Użyte biblioteki: - <br>
+Użyte moduły: Time <br>
+Edytor: Pycharm
+</p>
+<h4>Pomniejsze projekty (PYTHON)</h4>
+<p>Sortowanie listy</p>
+<p>in progress...</p>
+<h2>Certyfikaty</h2>
+<h4>Foundations of Cybersecurity</h4>
+<ul>
+  <li>Core security concepts</li>
+  <li>Skills for security analysts</li>
+  <li>8 security domains </li>
+  <li>Security frameworks and controls</li>
+  <li>Common tools and programing languages</li>
+</ul>
+<h4>Play It Safe: Manage Security Risks</h4>
+<ul>
+  <li>CISSP's eight security domains</li>
+  <li>Security frameworks and controls</li>
+  <li>Security audits</li>
+  <li>Basic security tools</li>
+  <li>Protect assets and data</li>
+</ul>
+<h4>Connect and Protect: Networks and Network Security</h4>
+<ul>
+  <li>Structure of a network</li>
+  <li>Network operations</li>
+  <li>Network attacks</li>
+  <li>Security hardening</li>
+</ul>
+
+<h2>Edukacja</h2>
+
+<p>Zespół Szkół Mechanicznych nr 2 w Bydgoszczy</p>
