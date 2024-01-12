@@ -6,7 +6,7 @@
   Aktualnie jestem w trakcie certyfikatu zawodowego <b>"Google Cybersecurity"</b>.
   Moje zainteresowanie szeroko pojętą informatyką zaczeło się już od dziecka!
   Granie w gry przerodziły się w pasję do tego jak to wszystko działa i 
-    do myslenia jak to jeszcze można usprawnić..
+    do myslenia jak to jeszcze można usprawnić... <br>
     Codzienna nauka nowych rzeczy z zakresu programowania (PYTHON)
     i cyberbezpieczeństwa to aktualnie mój konik :)
   </p>
