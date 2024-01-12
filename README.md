@@ -19,7 +19,7 @@ Użyte moduły: Time <br>
 Edytor: Pycharm
 </p>
 <h4>Pomniejsze projekty (PYTHON)</h4>
-<p>Sortowanie listy</p>
+<p><a href="https://github.com/eloMichas/python/blob/main/sortowanie%20listy.py">Sortowanie listy</a></p>
 <p>in progress...</p>
 <h2>Certyfikaty</h2>
 <h4>Foundations of Cybersecurity</h4>
