@@ -45,6 +45,13 @@ Edytor: Pycharm
   <li>Network attacks</li>
   <li>Security hardening</li>
 </ul>
+<h4>Tools of the Trade: Linux and SQL</h4>
+<ul>
+  <li>Operating systems and how they relate on applications and hardware </li>
+  <li>Network operations</li>
+  <li>The Linux operating system</li>
+  <li>SQL to query datebase </li>
+</ul>
 
 <h2>Edukacja</h2>
 
