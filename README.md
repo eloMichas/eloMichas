@@ -53,6 +53,13 @@ Edytor: Pycharm
   <li>The Linux operating system</li>
   <li>SQL to query datebase </li>
 </ul>
+<h4>Assets, Threats, and Vulnerabilities</h4>
+<ul>
+  <li>Assets organizations protect</li>
+  <li>Security systems and controls</li>
+  <li>Common vulnerabilities in system</li>
+  <li>Threats to asset security</li>
+</ul>
 
 <h2>Edukacja</h2>
 
