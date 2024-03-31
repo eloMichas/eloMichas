@@ -21,6 +21,7 @@ Edytor: Pycharm
 <h4>Pomniejsze projekty (PYTHON)</h4>
 <p><a href="https://github.com/eloMichas/python/blob/main/sortowanie%20listy.py">Sortowanie listy</a></p>
 <p><a href="https://github.com/eloMichas/python/blob/main/prosty%20szyfr.py">Klucz do poufności</a></p>
+<p><a href="https://github.com/eloMichas/python/blob/main/pare%20funkcji%20z%20plikiem%20txt%20i%20modulem%20re.py">Regular expression</a></p>
 <h6>in progress...</h6>
 <h2>Certyfikaty</h2>
 <h4>Foundations of Cybersecurity</h4>
