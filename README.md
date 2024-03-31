@@ -24,43 +24,7 @@ Edytor: Pycharm
 <p><a href="https://github.com/eloMichas/python/blob/main/pare%20funkcji%20z%20plikiem%20txt%20i%20modulem%20re.py">Regular expression</a></p>
 <h6>in progress...</h6>
 <h2>Certyfikaty</h2>
-<h4>Foundations of Cybersecurity</h4>
-<ul>
-  <li>Core security concepts</li>
-  <li>Skills for security analysts</li>
-  <li>8 security domains </li>
-  <li>Security frameworks and controls</li>
-  <li>Common tools and programing languages</li>
-</ul>
-<h4>Play It Safe: Manage Security Risks</h4>
-<ul>
-  <li>CISSP's eight security domains</li>
-  <li>Security frameworks and controls</li>
-  <li>Security audits</li>
-  <li>Basic security tools</li>
-  <li>Protect assets and data</li>
-</ul>
-<h4>Connect and Protect: Networks and Network Security</h4>
-<ul>
-  <li>Structure of a network</li>
-  <li>Network operations</li>
-  <li>Network attacks</li>
-  <li>Security hardening</li>
-</ul>
-<h4>Tools of the Trade: Linux and SQL</h4>
-<ul>
-  <li>Operating systems and how they relate on applications and hardware </li>
-  <li>Network operations</li>
-  <li>The Linux operating system</li>
-  <li>SQL to query datebase </li>
-</ul>
-<h4>Assets, Threats, and Vulnerabilities</h4>
-<ul>
-  <li>Assets organizations protect</li>
-  <li>Security systems and controls</li>
-  <li>Common vulnerabilities in system</li>
-  <li>Threats to asset security</li>
-</ul>
+<h3>Google Cybersecurity</h3>
 
 <h2>Edukacja</h2>
 
