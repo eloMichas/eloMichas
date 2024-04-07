@@ -22,6 +22,7 @@ Edytor: Pycharm
 <p><a href="https://github.com/eloMichas/python/blob/main/sortowanie%20listy.py">Sortowanie listy</a></p>
 <p><a href="https://github.com/eloMichas/python/blob/main/prosty%20szyfr.py">Klucz do poufności</a></p>
 <p><a href="https://github.com/eloMichas/python/blob/main/pare%20funkcji%20z%20plikiem%20txt%20i%20modulem%20re.py">Regular expression</a></p>
+<p><a href="https://github.com/eloMichas/python/blob/main/generator%20haseł%20z%20zapisem.py">Generator haseł</a></p>
 <h6>in progress...</h6>
 <h2>Certyfikaty</h2>
 <h3>Google Cybersecurity</h3>
