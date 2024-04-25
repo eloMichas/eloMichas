@@ -3,7 +3,7 @@
 <h1>Cześć!</h1>
 <h3>Mam na imię Michał!</h3>
   <p>Jestem absolwentem technikum o kierunku mechatronik.
-  Aktualnie jestem w trakcie certyfikatu zawodowego <b>"Google Cybersecurity"</b>.
+  Ukończyłem certyfikat zawodowy <b>"Google Cybersecurity"</b>.
   Moje zainteresowanie szeroko pojętą informatyką zaczęło się już od dziecka!
   Granie w gry przerodziły się w pasję do tego jak to wszystko działa i 
     do myślenia, jak to jeszcze można usprawnić... <br>
