@@ -15,8 +15,13 @@
 
 <h3><a href="https://github.com/eloMichas/Active_Directory">Active Directory</a></h3>
 <ol>
-  <li>Instalacja i konfiguracja usługi</li>
-  <li>Dodawanie użytkowników wykorzystując automatyzacje za pomoca skryptu napisanego w PowerShell</li>
+  <li>Instalacja i konfiguracja usługi.</li>
+  <li>Dodawanie użytkowników wykorzystując automatyzacje za pomoca skryptu napisanego w PowerShell.</li>
+</ol>
+<h3><a href="https://github.com/eloMichas/Linux">Linux dla początkujących</a></h3>
+<ol>
+  <li>Pokazanie dystrybucji,budowy oraz historii Linux w prosty sposób.</li>
+  <li>Podstawowe komendy pozwalające na nawigację po systemie.</li>  
 </ol>
 
 <h4>Pomniejsze projekty (PYTHON)</h4>
