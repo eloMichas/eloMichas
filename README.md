@@ -13,7 +13,11 @@
 
 <h2>Projekty</h2>
 
-<h3><a href="https://github.com/eloMichas/Active_Directory"></a>Active Directory</h3>
+<h3><a href="https://github.com/eloMichas/Active_Directory">Active Directory</a></h3>
+<ol>
+  <li>Instalacja i konfiguracja usługi</li>
+  <li>Dodawanie użytkowników wykorzystując automatyzacje za pomoca skryptu napisanego w PowerShell</li>
+</ol>
 
 <h4>Pomniejsze projekty (PYTHON)</h4>
 <p><a href="https://github.com/eloMichas/python/blob/main/sortowanie%20listy.py">Sortowanie listy</a></p>
