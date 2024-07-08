@@ -20,7 +20,7 @@
 </ol>
 <h3><a href="https://github.com/eloMichas/Linux">Linux dla początkujących</a></h3>
 <ol>
-  <li>Pokazanie dystrybucji,budowy oraz historii Linux w prosty sposób.</li>
+  <li>Pokazanie dystrybucji, budowy oraz historii Linux w prosty sposób.</li>
   <li>Podstawowe komendy pozwalające na nawigację po systemie.</li>  
 </ol>
 
