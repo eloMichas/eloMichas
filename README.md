@@ -26,7 +26,7 @@
 
 <h4>Pomniejsze projekty (PYTHON)</h4>
 <p><a href="https://github.com/eloMichas/python/blob/main/sortowanie%20listy.py">Sortowanie listy</a></p>
-<p><a href="https://github.com/eloMichas/python/blob/main/prosty%20szyfr.py">Klucz do poufności</a></p>
+<p><a href="https://github.com/eloMichas/python/blob/main/prosty%20szyfr%2Bodszyfrowanie.py">Klucz do poufności v2</a></p>
 <p><a href="https://github.com/eloMichas/Regular_expression">Regular expression</a></p>
 <p><a href="https://github.com/eloMichas/pass_generator">Generator haseł</a></p>
 <p><a href="https://github.com/eloMichas/folder_search">Folder Search</a></p>
